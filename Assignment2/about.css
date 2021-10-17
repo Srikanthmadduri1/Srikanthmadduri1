@@ -1,0 +1,23 @@
+#ss2
+{
+  position:absolute;
+  right: 23%;
+}
+#ss1
+{
+  position:absolute;
+}
+.flex-container {
+  display: flex;
+  padding-top: 60px;
+  
+}
+
+.sri {
+  flex: 1;
+  text-decoration: none;
+}  
+
+.sri:sri {
+  margin-right: 20px;
+} 
